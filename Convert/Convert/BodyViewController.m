@@ -31,5 +31,7 @@
     [myrequest setValue:self.cookieText.stringValue forHTTPHeaderField:@"Cookie"];
     [myrequest setHTTPBody:myrequestData];
     [NSURLConnection sendSynchronousRequest:myrequest returningResponse:nil error:nil];
+    
+    [[NSApplication sharedApplication] terminate:self];
 }
 @end
