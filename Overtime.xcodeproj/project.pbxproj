@@ -262,7 +262,7 @@
 				DEVELOPMENT_TEAM = 8LP5KW6GHL;
 				INFOPLIST_FILE = Overtime/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = space.zhangwu.Overtime;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.zhangwu.Overtime;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -275,7 +275,7 @@
 				DEVELOPMENT_TEAM = 8LP5KW6GHL;
 				INFOPLIST_FILE = Overtime/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = space.zhangwu.Overtime;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.zhangwu.Overtime;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -299,6 +299,7 @@
 				E2AF3E8F1DF0F5ED000C7D4D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

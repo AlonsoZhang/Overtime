@@ -268,7 +268,7 @@
 				DEVELOPMENT_TEAM = 8LP5KW6GHL;
 				INFOPLIST_FILE = Convert/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = space.zhangwu.Convert;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.zhangwu.Convert;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -281,7 +281,7 @@
 				DEVELOPMENT_TEAM = 8LP5KW6GHL;
 				INFOPLIST_FILE = Convert/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = space.zhangwu.Convert;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.zhangwu.Convert;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
